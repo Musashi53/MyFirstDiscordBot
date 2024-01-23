@@ -7,4 +7,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="discord.net" Version="3.13.0" />
+    <PackageReference Include="dotnetenv" Version="3.0.0" />
+  </ItemGroup>
+
 </Project>
